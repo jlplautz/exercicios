@@ -10,6 +10,8 @@ codecov = "*"
 
 [packages]
 ipython = "*"
+flask = "*"
+fastapi = {extras = ["all"],version = "*"}
 
 [requires]
 python_version = "3.8"
