@@ -373,10 +373,10 @@
         },
         "starlette": {
             "hashes": [
-                "sha256:04fe51d86fd9a594d9b71356ed322ccde5c9b448fc716ac74155e5821a922f8d",
-                "sha256:0fb4b38d22945b46acb880fedee7ee143fd6c0542992501be8c45c0ed737dd1a"
+                "sha256:03457f2a13e8c9866772b1ca85c74f025f46e02ba3d37624ddb26a92326082aa",
+                "sha256:5ec03e00dbdc31b01b0363ef25c2a49b3a07715153732b83a54d07d925f3dae7"
             ],
-            "version": "==0.13.4"
+            "version": "==0.14.0"
         },
         "traitlets": {
             "hashes": [
