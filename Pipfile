@@ -12,6 +12,7 @@ codecov = "*"
 ipython = "*"
 flask = "*"
 fastapi = {extras = ["all"],version = "*"}
+py = "*"
 
 [requires]
 python_version = "3.8"
