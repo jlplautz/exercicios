@@ -1,4 +1,4 @@
-# para transforma as fruntas em lista
+# para transforma as frutas em lista
 frutas = 'caqui jaca uva  kiwi manga abacaxi jaboticaba mangaba'.split()
 
 
