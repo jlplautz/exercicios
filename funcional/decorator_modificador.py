@@ -1,6 +1,7 @@
 from time import time
 from functools import wraps
 
+
 def envolver(funcao_envolvida):
     def editar_metadados(funcao_envoltoria):
         funcao_envoltoria.__name__ = funcao_envolvida.__name__
@@ -45,5 +46,6 @@ def modulo(a, b):
         return a - b
     return b - a
 
-print(modulo(1,2))
-print(modulo(2,1))
+
+print(modulo(1, 2))
+print(modulo(2, 1))
