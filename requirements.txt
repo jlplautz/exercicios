@@ -34,7 +34,7 @@ packaging==20.9
 parso==0.8.2
 pexpect==4.8.0
 pickleshare==0.7.5
-pluggy==0.13.1
+pluggy==1.0.0
 promise==2.3
 prompt-toolkit==3.0.18
 ptyprocess==0.7.0
