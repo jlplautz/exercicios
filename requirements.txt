@@ -38,7 +38,7 @@ pluggy==0.13.1
 promise==2.3
 prompt-toolkit==3.0.18
 ptyprocess==0.7.0
-py==1.10.0
+py==1.11.0
 pycodestyle==2.7.0
 pydantic==1.8.1
 pyflakes==2.3.1
