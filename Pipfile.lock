@@ -512,14 +512,11 @@
             "version": "==1.26.4"
         },
         "uvicorn": {
-            "extras": [
-                "standard"
-            ],
             "hashes": [
-                "sha256:3292251b3c7978e8e4a7868f4baf7f7f7bb7e40c759ecc125c37e99cdea34202",
-                "sha256:7587f7b08bd1efd2b9bad809a3d333e972f1d11af8a5e52a9371ee3a5de71524"
+                "sha256:d8c839231f270adaa6d338d525e2652a0b4a5f4c2430b5c4ef6ae4d11776b0d2",
+                "sha256:eacb66afa65e0648fcbce5e746b135d09722231ffffc61883d4fac2b62fbea8d"
             ],
-            "version": "==0.13.4"
+            "version": "==0.16.0"
         },
         "uvloop": {
             "hashes": [
