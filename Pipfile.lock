@@ -98,15 +98,11 @@
             "version": "==1.1.2"
         },
         "fastapi": {
-            "extras": [
-                "all"
-            ],
             "hashes": [
-                "sha256:63c4592f5ef3edf30afa9a44fa7c6b7ccb20e0d3f68cd9eba07b44d552058dcb",
-                "sha256:98d8ea9591d8512fdadf255d2a8fa56515cdd8624dca4af369da73727409508e"
+                "sha256:019ec52c00581bc055e6dfb621aaa9c2a56007c283839305412e1073a777eaf1",
+                "sha256:7421a2f30e9ed1866874cff089733d4f9a0cd4f49b6ea3995c0de75e32bbb52f"
             ],
-            "index": "pypi",
-            "version": "==0.63.0"
+            "version": "==0.72.0"
         },
         "flask": {
             "hashes": [
