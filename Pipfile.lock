@@ -539,10 +539,10 @@
         },
         "watchgod": {
             "hashes": [
-                "sha256:48140d62b0ebe9dd9cf8381337f06351e1f2e70b2203fa9c6eff4e572ca84f29",
-                "sha256:d6c1ea21df37847ac0537ca0d6c2f4cdf513562e95f77bb93abbcf05573407b7"
+                "sha256:4ba20c2fa3e63df706ab50e694b9453b05395fadb7cbbfd984d71fb1547d485d",
+                "sha256:c12d15f3df7d11e740704e45398277f75f1d78f46ad59ca9d7505bfd8b8d3086"
             ],
-            "version": "==0.7"
+            "version": "==0.8.1"
         },
         "wcwidth": {
             "hashes": [
