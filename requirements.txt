@@ -29,7 +29,7 @@ jedi==0.18.0
 Jinja2==2.11.3
 MarkupSafe==1.1.1
 mccabe==0.6.1
-orjson==3.5.2
+orjson==3.9.13
 packaging==20.9
 parso==0.8.2
 pexpect==4.8.0
