@@ -512,14 +512,8 @@
             "version": "==1.26.4"
         },
         "uvicorn": {
-            "extras": [
-                "standard"
-            ],
-            "hashes": [
-                "sha256:3292251b3c7978e8e4a7868f4baf7f7f7bb7e40c759ecc125c37e99cdea34202",
-                "sha256:7587f7b08bd1efd2b9bad809a3d333e972f1d11af8a5e52a9371ee3a5de71524"
-            ],
-            "version": "==0.13.4"
+            "hashes": [],
+            "version": "==0.30.1"
         },
         "uvloop": {
             "hashes": [
