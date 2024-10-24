@@ -47,7 +47,7 @@ pyparsing==2.4.7
 pytest==6.2.3
 pytest-cov==2.11.1
 python-dotenv==0.17.0
-python-multipart==0.0.5
+python-multipart==0.0.14
 PyYAML==5.4.1
 requests==2.25.1
 Rx==1.6.1
